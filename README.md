@@ -18,6 +18,8 @@ Design and simulation of the power delivery network for a 1.0 V / 2 A rail feedi
 Target impedance: Z = 30 mV ripple / 2 A transient = **15 mOhm** (from a 5% tolerance split into 20 mV DC and 30 mV AC).
 
 ![Before and after moving the 1 uF capacitors under the BGA](images/fig18_z_before_after_under_bga.png)
+![Final PDN impedance](images/fig17_z_final_design.png)
+![DC IR drop on the PWR plane](images/fig09_dcir_voltage_pwr.png)
 
 ## What was done
 
