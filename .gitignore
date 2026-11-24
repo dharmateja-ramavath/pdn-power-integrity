@@ -1,0 +1,28 @@
+# ---- Altium Designer: generated / temporary files ----
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.LibPkgStructure
+*.Annotation
+*.~*
+
+# ---- Ansys SIwave: simulation results, logs, locks ----
+*.siwaveresults/
+*.log
+*.lock
+*.siw.lock
+*.aedb.lock
+
+# ---- Python ----
+__pycache__/
+*.pyc
+model/pdn_lumped_model.png
+
+# ---- OS ----
+Thumbs.db
+desktop.ini
+.DS_Store
