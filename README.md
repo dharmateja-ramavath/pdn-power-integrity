@@ -46,7 +46,7 @@ Target impedance: Z = 30 mV ripple / 2 A transient = **15 mOhm** (from a 5% tole
 ├── images/      Figures used in the report (fig01 to fig19)
 ├── model/       Lumped RLC PDN model (Python)
 ├── altium/
-│   ├── original_placement/   Altium project, schematic, PCB, libraries, ODB++ export
+│   ├── original_placement/   Altium project, schematic, PCB, ODB++ export
 │   └── under_bga/            PCB with the 1 uF capacitors moved under the BGA
 └── siwave/      Ansys SIwave projects (results not included)
 ```
